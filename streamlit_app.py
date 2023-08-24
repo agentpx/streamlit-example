@@ -1,7 +1,7 @@
 import streamlit as st
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
+#import pandas as pd
+#import seaborn as sns
+#import matplotlib.pyplot as plt
 
 # # Load the Iris dataset from Seaborn
 # @st.cache
